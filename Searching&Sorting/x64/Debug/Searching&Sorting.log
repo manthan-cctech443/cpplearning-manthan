@@ -1,0 +1,4 @@
+﻿  Searching&Sorting.cpp
+C:\Users\Manthan Sawant\Desktop\CPPLearning\Searching&Sorting\Searching&Sorting.cpp(25,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Manthan Sawant\Desktop\CPPLearning\Searching&Sorting\Searching&Sorting.cpp(30,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Searching&Sorting.vcxproj -> C:\Users\Manthan Sawant\Desktop\CPPLearning\x64\Debug\Searching&Sorting.exe

@@ -1,0 +1,6 @@
+﻿  ArrayManager.cpp
+  Arrays&Strings.cpp
+  StringManager.cpp
+C:\Users\Manthan Sawant\Desktop\CPPLearning\Arrays&Strings\StringManager.cpp(14,25): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  Generating Code...
+  Arrays&Strings.vcxproj -> C:\Users\Manthan Sawant\Desktop\CPPLearning\x64\Debug\Arrays&Strings.exe
